@@ -4,10 +4,10 @@
 cmake_minimum_required(VERSION 3.16.2)
 
 project(
-	Macasten-Code-Challenges
-	VERSION 1.0.0
-	DESCRIPTION "My project to resolve code Challenges"
-	LANGUAGES CXX
+  Macasten-Code-Challenges
+  VERSION 1.0.0
+  DESCRIPTION "My project to resolve code Challenges"
+  LANGUAGES CXX
 )
 
 # =============================================================================
