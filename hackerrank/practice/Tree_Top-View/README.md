@@ -6,6 +6,6 @@ ___
 
 ## [Page Problem](https://www.hackerrank.com/challenges/tree-top-view/problem)
 
-## [PDF Problem](hackerrank/practice/Tree_Top-View/tree-top-view-English.pdf)
+## [PDF Problem](./tree-top-view-English.pdf)
 
 ## Status: SOLVED
