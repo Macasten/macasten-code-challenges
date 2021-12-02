@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/Forming-A-Magic-Square.dir/hackerrank/practice/Forming-A-Magic-Square/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Forming-A-Magic-Square/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Forming-A-Magic-Square/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/Counting-Valleys.dir/hackerrank/practice/Counting-Valleys/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Counting-Valleys/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Counting-Valleys/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/Cats-And-a-Mouse.dir/hackerrank/practice/Cats-And-a-Mouse/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Cats-And-a-Mouse/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Cats-And-a-Mouse/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/Arrays-DS.dir/hackerrank/practice/Arrays-DS/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Arrays-DS/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Arrays-DS/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/Sales-By-Match.dir/hackerrank/practice/Sales-By-Match/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Sales-By-Match/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Sales-By-Match/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/Tree_Height-of-a-Binary-Tree.dir/hackerrank/practice/Tree_Height-of-a-Binary-Tree/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Tree_Height-of-a-Binary-Tree/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Tree_Height-of-a-Binary-Tree/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/Tree_Top-View.dir/hackerrank/practice/Tree_Top-View/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Tree_Top-View/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/hackerrank/practice/Tree_Top-View/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/35_Search-Insert-Position.dir/leetcode/daily-problem/35_Search-Insert-Position/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/leetcode/daily-problem/35_Search-Insert-Position/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/leetcode/daily-problem/35_Search-Insert-Position/main.cpp"
+},
+{
+  "directory": "/home/filipe/Manter/Macas/macasten-code-challenges/build/VSCode/Debug",
+  "command": "/usr/bin/g++-8   -g -o CMakeFiles/198_House_Robber.dir/leetcode/daily-problem/198_House_Robber/main.cpp.o -c /home/filipe/Manter/Macas/macasten-code-challenges/leetcode/daily-problem/198_House_Robber/main.cpp",
+  "file": "/home/filipe/Manter/Macas/macasten-code-challenges/leetcode/daily-problem/198_House_Robber/main.cpp"
+}
+]
