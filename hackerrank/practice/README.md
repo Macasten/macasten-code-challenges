@@ -16,5 +16,6 @@ Practice
 * [x] [Forming a Magic Square](./Forming-A-Magic-Square/README.md)
 * [x] [Picking Numbers](./Picking-Numbers/picking-numbers.cpp)
 * [x] [Sales By Match](./Sales-By-Match/README.md)
+* [x] [Time Conversion](./Time-Conversion/README.md)
 * [x] [Tree: Top View](./Tree_Top-View/README.md)
 * [x] [Tree: Height of a binary tree](./Tree_Height-of-a-Binary-Tree/README.md)

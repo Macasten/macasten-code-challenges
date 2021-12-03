@@ -31,7 +31,6 @@ string timeConversion(string s) {
     return format_account_number(hours+12) + s.substr( 2, (s.size() - 4 ));
   }
 
-
 }
 
 int main()
