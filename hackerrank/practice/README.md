@@ -15,6 +15,7 @@ Practice
 * [x] [Cats and a Mouse](./Cats-And-a-Mouse/README.md)
 * [x] [Climbing The Leaderboard](./Climbing-The-Leaderboard/README.md)
 * [x] [Forming a Magic Square](./Forming-A-Magic-Square/README.md)
+* [x] [Grading Students](./Grading-Students/README.md)
 * [x] [Picking Numbers](./Picking-Numbers/picking-numbers.cpp)
 * [x] [Sales By Match](./Sales-By-Match/README.md)
 * [x] [Time Conversion](./Time-Conversion/README.md)
