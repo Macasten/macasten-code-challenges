@@ -10,6 +10,7 @@ Practice
 
 ### Easys
 
+* [x] [Apple and Orange](./Apple-And-Orange/README.md)
 * [x] [Arrays - DS](./Arrays-DS/README.md)
 * [x] [Counting Valleys](./Counting-Valleys/README.md)
 * [x] [Cats and a Mouse](./Cats-And-a-Mouse/README.md)
