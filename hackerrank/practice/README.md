@@ -15,6 +15,7 @@ Practice
 * [x] [Counting Valleys](./Counting-Valleys/README.md)
 * [x] [Cats and a Mouse](./Cats-And-a-Mouse/README.md)
 * [x] [Climbing The Leaderboard](./Climbing-The-Leaderboard/README.md)
+* [x] [Designer PDF Viewer](./Designer-PDF-Viewer/README.md)
 * [x] [Forming a Magic Square](./Forming-A-Magic-Square/README.md)
 * [x] [Grading Students](./Grading-Students/README.md)
 * [x] [Picking Numbers](./Picking-Numbers/picking-numbers.cpp)
