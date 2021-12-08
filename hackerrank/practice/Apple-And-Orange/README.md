@@ -6,4 +6,4 @@ ___
 
 ## [Page Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 
-## Status: 
+## Status: SOLVED
