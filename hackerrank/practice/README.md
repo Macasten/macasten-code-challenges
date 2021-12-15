@@ -20,6 +20,7 @@ Practice
 * [x] [Designer PDF Viewer](./Designer-PDF-Viewer/README.md)
 * [x] [Forming a Magic Square](./Forming-A-Magic-Square/README.md)
 * [x] [Grading Students](./Grading-Students/README.md)
+* [x] [Migratory Birds](./Migratory-Birds/README.md)
 * [x] [Picking Numbers](./Picking-Numbers/picking-numbers.cpp)
 * [x] [Sales By Match](./Sales-By-Match/README.md)
 * [x] [Subarray Division](./Subarray-Division/README.md)
