@@ -18,6 +18,7 @@ Practice
 * [x] [Cats and a Mouse](./Cats-And-a-Mouse/README.md)
 * [x] [Climbing The Leaderboard](./Climbing-The-Leaderboard/README.md)
 * [x] [Designer PDF Viewer](./Designer-PDF-Viewer/README.md)
+* [x] [Drawing Book](./Drawing-Book/README.md)
 * [x] [Forming a Magic Square](./Forming-A-Magic-Square/README.md)
 * [x] [Grading Students](./Grading-Students/README.md)
 * [x] [Migratory Birds](./Migratory-Birds/README.md)
