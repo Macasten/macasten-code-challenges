@@ -31,3 +31,4 @@ Practice
 * [x] [Tree: Top View](./Tree_Top-View/README.md)
 * [x] [Tree: Height of a binary tree](./Tree_Height-of-a-Binary-Tree/README.md)
 * [x] [Utopian Tree](./Utopian-Tree/README.md)
+* [x] [Viral Advertising](./Viral-Advertising/README.md)
