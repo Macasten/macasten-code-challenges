@@ -20,6 +20,7 @@ Practice
 * [x] [Designer PDF Viewer](./Designer-PDF-Viewer/README.md)
 * [x] [Drawing Book](./Drawing-Book/README.md)
 * [x] [Electronics Shop](./Electronics-Shop/README.md)
+* [x] [Equalize the Array](./Equalize-The-Array/README.md)
 * [x] [Extra Long Factorials](./Extra-Long-Factorials/README.md)
 * [x] [Find Digits](./Find-Digits/README.md)
 * [x] [Forming a Magic Square](./Forming-A-Magic-Square/README.md)
@@ -34,3 +35,7 @@ Practice
 * [x] [Tree: Height of a binary tree](./Tree_Height-of-a-Binary-Tree/README.md)
 * [x] [Utopian Tree](./Utopian-Tree/README.md)
 * [x] [Viral Advertising](./Viral-Advertising/README.md)
+
+### cpp
+
+* [x] [Print Pretty](./cpp-Print-Pretty/README.md)
