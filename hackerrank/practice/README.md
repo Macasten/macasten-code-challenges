@@ -46,3 +46,7 @@ Practice
 * [x] [Handshake](./mathematics-Handshake/README.md)
 * [x] [Maximum Draws](./mathematics-Maximum-Draws/README.md)
 * [x] [Minimum Height Triangle](./mathematics-Minimum-Height-Triangle/README.md)
+
+### Tutorials
+
+* [x] [Day 12: Inheritance](./tutorials-Day12_Inheritance/README.md)
