@@ -6,4 +6,4 @@ ___
 
 ## [Page Problem](https://www.hackerrank.com/challenges/prettyprint/problem)
 
-## Status: 
+## Status: SOLVED

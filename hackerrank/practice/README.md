@@ -39,3 +39,7 @@ Practice
 ### cpp
 
 * [x] [Print Pretty](./cpp-Print-Pretty/README.md)
+
+### Mathematics
+
+* [x] [Find the Point](./mathematics-Find-The-Point/README.md)
