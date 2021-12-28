@@ -43,4 +43,5 @@ Practice
 ### Mathematics
 
 * [x] [Find the Point](./mathematics-Find-The-Point/README.md)
+* [x] [Handshake](./mathematics-Handshake/README.md)
 * [x] [Maximum Draws](./mathematics-Maximum-Draws/README.md)
