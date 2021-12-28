@@ -45,3 +45,4 @@ Practice
 * [x] [Find the Point](./mathematics-Find-The-Point/README.md)
 * [x] [Handshake](./mathematics-Handshake/README.md)
 * [x] [Maximum Draws](./mathematics-Maximum-Draws/README.md)
+* [x] [Minimum Height Triangle](./mathematics-Minimum-Height-Triangle/README.md)
