@@ -9,6 +9,7 @@ Practice
 ## List
 
 * [x] [35. Search Insert Position](./35_Search-Insert-Position/README.md)
+* [x] [116. Populating Next Right Pointers in Each Node](./116_Populating-Next-Right-Pointers-in-Each-Node/README.md)
 * [x] [143. Reorder List](./143_Reorder-List/README.md)
 * [x] [147. Insertion Sort List](./147_Insertion-Sort-List/README.md)
 * [x] [152. Maximum Product Subarray](./152_Maximum-Product-Subarray/README.md)
