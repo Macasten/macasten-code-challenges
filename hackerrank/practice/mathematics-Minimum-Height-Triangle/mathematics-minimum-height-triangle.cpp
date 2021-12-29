@@ -18,9 +18,7 @@ vector<string> split(const string &);
  */
 
 int lowestTriangle(int trianglebase, int area) {
-  cout << area << " " << trianglebase << endl;
   double result = ((double)area*2)/ (double)trianglebase ;
-  cout << result << endl;
   return ceil( result );
 }
 

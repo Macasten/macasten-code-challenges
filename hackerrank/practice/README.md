@@ -50,3 +50,4 @@ Practice
 ### Tutorials
 
 * [x] [Day 12: Inheritance](./tutorials-Day12_Inheritance/README.md)
+* [x] [Day 13: Abstract Classes](./tutorials-Day13_Abstract-Classes/README.md)
