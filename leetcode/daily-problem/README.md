@@ -13,6 +13,7 @@ Practice
 * [x] [143. Reorder List](./143_Reorder-List/README.md)
 * [x] [147. Insertion Sort List](./147_Insertion-Sort-List/README.md)
 * [x] [152. Maximum Product Subarray](./152_Maximum-Product-Subarray/README.md)
+* [x] [189. Rotate Array](./189_Rotate-Array/README.md)
 * [x] [278. First Bad Version](./278_First-Bad-Version/README.md)
 * [x] [476. Number Complement](./476_Number-Complement/README.md)
 * [x] [704. Binary Search](./704_Binary-Search/README.md)
