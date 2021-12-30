@@ -54,3 +54,4 @@ Practice
 * [x] [Day 14: Scope](./tutorials-Day14_Scope/README.md)
 * [x] [Day 15: Linked List](./tutorials-Day15_Linked-List/README.md)
 * [x] [Day 16: Exceptions - String to Integer](./tutorials-Day16_Exceptions-String-to-Integer/README.md)
+* [x] [Day 17: More Exceptions](./tutorials-Day17_More-Exceptions/README.md)

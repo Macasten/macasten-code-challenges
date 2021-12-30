@@ -21,11 +21,9 @@ public:
     std::vector<int> begin( nums.begin() + (nums.size() - k ), nums.end() );
     std::vector<int> tail( nums.begin(), nums.begin() + (nums.size() - k ) );
 
-    coutVector(begin);
-    coutVector(tail);
     nums.clear();
-    nums.insert( nums.end(), begin.begin(), begin.end()  );
-    nums.insert( nums.end(), tail.begin(), tail.end()  );
+    nums.insert( nums.end(), begin.begin(), begin.end() );
+    nums.insert( nums.end(), tail.begin(), tail.end() );
   }
 //------------------------------------------------------------------------------
 };
