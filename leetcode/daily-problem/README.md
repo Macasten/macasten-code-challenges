@@ -18,4 +18,6 @@ Practice
 * [x] [704. Binary Search](./704_Binary-Search/README.md)
 * [x] [876. Middle of the Linked List](./876_Middle-Of-The-Linked-List/README.md)
 * [x] [938. Range Sum of BST](./938_Range-Sum-of-BST/README.md)
+* [ ] [977. Squares of a Sorted Array](./977_Squares-of-a-Sorted-Array/README.md)
+* [x] [1015. Smallest Integer Divisible by K](./1015_Smallest-Integer-Divisible-by-K/README.md)
 * [x] [2095. Delete the Middle Node of a Linked List](2095_Delete-The-Middle-Node-Of-A-Linked-List/README.md)
