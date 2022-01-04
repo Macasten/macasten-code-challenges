@@ -6,4 +6,5 @@ ___
 
 ## [Page Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
-## Status: 
+## Status: SOLVED
+
