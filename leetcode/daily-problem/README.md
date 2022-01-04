@@ -21,5 +21,6 @@ Practice
 * [x] [938. Range Sum of BST](./938_Range-Sum-of-BST/README.md)
 * [x] [977. Squares of a Sorted Array](./977_Squares-of-a-Sorted-Array/README.md)
 * [ ] [997. Find the Town Judge](./997_Find-the-Town-Judge/README.md)
+* [x] [1009. Complement of Base 10 Integer](./1009_Complement-of-Base-10-Integer/README.md)
 * [x] [1015. Smallest Integer Divisible by K](./1015_Smallest-Integer-Divisible-by-K/README.md)
 * [x] [2095. Delete the Middle Node of a Linked List](2095_Delete-The-Middle-Node-Of-A-Linked-List/README.md)

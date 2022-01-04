@@ -13,13 +13,13 @@ public:
     return bit;
   }
 
-  int findComplement(int num) {
-    if(num == 0){ return 1;}
+  int bitwiseComplement(int n) {
+    if(n == 0){ return 1;}
     bool convert{false};
     bool bit{false};
     int output{0};
     for( int p = 31; p>= 0; p--){
-      bit = get_bit(num, p);
+      bit = get_bit(n, p);
       if( !convert && bit) convert = true;
       if( convert ){
         if( !bit ){
@@ -32,13 +32,14 @@ public:
   }
   //---------------------------------------------------------------------------
   void showComplement( int num ){
-    std::cout << num << " -> complement -> " << findComplement(num) << std::endl;
+    std::cout << num << " -> complement -> " << bitwiseComplement(num) << std::endl;
   }
 };
 
 int main(){
   
   Solution solution;
+  solution.showComplement(0);
   solution.showComplement(9);
   solution.showComplement(5);
   solution.showComplement(3);

@@ -7,9 +7,9 @@ class Solution {
 public:
 //----------------------------------------------------------- Challenge Solution
 
-  int findJudge(int n, vector<vector<int>>& trust) {
-
-  }
+  // int findJudge(int n, vector<vector<int>>& trust) {
+  //   return 0;
+  // }
 
 //------------------------------------------------------------------------------
 };
