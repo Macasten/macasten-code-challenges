@@ -24,6 +24,7 @@ Practice
 * [x] [476. Number Complement](./476_Number-Complement/README.md)
 * [x] [557. Reverse Words in a String III](557_Reverse-Words-in-a-String-III/README.md)
 * [ ] [567. Permutation in String](./567_Permutation-in-String/README.md)
+* [x] [695. Max Area of Island](./695_Max-Area-of-Island/README.md)
 * [x] [704. Binary Search](./704_Binary-Search/README.md)
 * [x] [733. Flood Fill](./733_Flood-Fill/README.md)
 * [x] [876. Middle of the Linked List](./876_Middle-Of-The-Linked-List/README.md)
