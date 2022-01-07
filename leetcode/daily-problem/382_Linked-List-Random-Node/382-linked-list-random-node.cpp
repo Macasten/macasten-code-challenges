@@ -38,7 +38,6 @@ public:
 
   int getRandom() {
     return *access.at( static_cast<uint>( rand()%access.size() ) );
-    //return vector.at( (size_t)( rand() );
   }
 //------------------------------------------------------------------------------
 
