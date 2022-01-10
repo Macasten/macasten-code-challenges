@@ -8,6 +8,7 @@ Practice
 
 ## List
 
+* [x] [2. Add Two Numbers](./2_Add-Two-Numbers/README.md)
 * [x] [3. Longest Substring Without Repeating Characters](./3_Longest-Substring-Without-Repeating-Characters/README.md)
 * [x] [19. Remove Nth Node From End of List](./19_Remove-Nth-Node-From-End-of-List/README.md)
 * [x] [35. Search Insert Position](./35_Search-Insert-Position/README.md)
