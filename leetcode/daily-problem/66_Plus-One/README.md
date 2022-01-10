@@ -1,4 +1,4 @@
-# 67. Add Binary
+# 66. Plus One
 
 [GO BACK](../README.md)
 

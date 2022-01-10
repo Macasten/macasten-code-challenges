@@ -11,6 +11,8 @@ Practice
 * [x] [3. Longest Substring Without Repeating Characters](./3_Longest-Substring-Without-Repeating-Characters/README.md)
 * [x] [19. Remove Nth Node From End of List](./19_Remove-Nth-Node-From-End-of-List/README.md)
 * [x] [35. Search Insert Position](./35_Search-Insert-Position/README.md)
+* [x] [66. Plus One](./66_Plus-One/README.md)
+* [x] [67. Add Binary](./67_Add-Binary/README.md)
 * [x] [116. Populating Next Right Pointers in Each Node](./116_Populating-Next-Right-Pointers-in-Each-Node/README.md)
 * [x] [143. Reorder List](./143_Reorder-List/README.md)
 * [x] [147. Insertion Sort List](./147_Insertion-Sort-List/README.md)
