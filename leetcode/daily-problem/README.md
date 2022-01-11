@@ -41,5 +41,6 @@ Practice
 * [ ] [997. Find the Town Judge](./997_Find-the-Town-Judge/README.md)
 * [x] [1009. Complement of Base 10 Integer](./1009_Complement-of-Base-10-Integer/README.md)
 * [x] [1015. Smallest Integer Divisible by K](./1015_Smallest-Integer-Divisible-by-K/README.md)
+* [x] [1022. Sum of Root To Leaf Binary Numbers](./1022_Sum-of-Root-To-Leaf-Binary-Numbers/README.md)
 * [x] [1094. Car Pooling](./1094_Car-Pooling/README.md)
 * [x] [2095. Delete the Middle Node of a Linked List](2095_Delete-The-Middle-Node-Of-A-Linked-List/README.md)
