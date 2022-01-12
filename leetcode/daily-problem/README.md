@@ -33,6 +33,7 @@ Practice
 * [x] [557. Reverse Words in a String III](557_Reverse-Words-in-a-String-III/README.md)
 * [ ] [567. Permutation in String](./567_Permutation-in-String/README.md)
 * [x] [695. Max Area of Island](./695_Max-Area-of-Island/README.md)
+* [x] [700. Search in a Binary Search Tree](./700_Search-in-a-Binary-Search-Tree/README.md)
 * [x] [701. Insert into a Binary Search Tree](./701_Insert-Into-a-Binary-Search-Tree/README.md)
 * [x] [704. Binary Search](./704_Binary-Search/README.md)
 * [x] [733. Flood Fill](./733_Flood-Fill/README.md)
