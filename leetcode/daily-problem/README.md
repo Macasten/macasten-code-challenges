@@ -27,6 +27,7 @@ Practice
 * [x] [344. Reverse String](./344_Reverse-String/README.md)
 * [x] [382. Linked List Random Node](./382_Linked-List-Random-Node/README.md)
 * [x] [371. Sum of Two Integers](./371_Sum-of-Two-Integers/README.md)
+* [x] [374. Guess Number Higher or Lower](./374_Guess-Number-Higher-or-Lower/README.md)
 * [x] [415. Add Strings](./415_Add-Strings/README.md)
 * [x] [452. Minimum Number of Arrows to Burst Balloons](./452_Minimum-Number-of-Arrows-to-Burst-Balloons/README.md)
 * [x] [476. Number Complement](./476_Number-Complement/README.md)
