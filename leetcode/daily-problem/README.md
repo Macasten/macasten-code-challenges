@@ -28,6 +28,7 @@ Practice
 * [x] [382. Linked List Random Node](./382_Linked-List-Random-Node/README.md)
 * [x] [371. Sum of Two Integers](./371_Sum-of-Two-Integers/README.md)
 * [x] [415. Add Strings](./415_Add-Strings/README.md)
+* [x] [452. Minimum Number of Arrows to Burst Balloons](./452_Minimum-Number-of-Arrows-to-Burst-Balloons/README.md)
 * [x] [476. Number Complement](./476_Number-Complement/README.md)
 * [x] [530. Minimum Absolute Difference in BST](./530_Minimum-Absolute-Difference-in-BST/README.md)
 * [x] [557. Reverse Words in a String III](557_Reverse-Words-in-a-String-III/README.md)
