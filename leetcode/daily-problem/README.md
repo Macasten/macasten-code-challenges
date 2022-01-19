@@ -17,6 +17,7 @@ Practice
 * [x] [66. Plus One](./66_Plus-One/README.md)
 * [x] [67. Add Binary](./67_Add-Binary/README.md)
 * [x] [116. Populating Next Right Pointers in Each Node](./116_Populating-Next-Right-Pointers-in-Each-Node/README.md)
+* [x] [141. Linked List Cycle](./141_linked-list-cycle/README.md)
 * [x] [142. Linked List Cycle II](./142_linked-list-cycle-II/README.md)
 * [x] [143. Reorder List](./143_Reorder-List/README.md)
 * [x] [147. Insertion Sort List](./147_Insertion-Sort-List/README.md)
