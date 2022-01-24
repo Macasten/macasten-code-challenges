@@ -18,6 +18,7 @@ Practice
 * [x] [66. Plus One](./66_Plus-One/README.md)
 * [x] [67. Add Binary](./67_Add-Binary/README.md)
 * [x] [116. Populating Next Right Pointers in Each Node](./116_Populating-Next-Right-Pointers-in-Each-Node/README.md)
+* [x] [125. Valid Palindrome](./125_Valid-Palindrome/README.md)
 * [x] [134. Gas Station](./134_Gas-Station/README.md)
 * [x] [141. Linked List Cycle](./141_linked-list-cycle/README.md)
 * [x] [142. Linked List Cycle II](./142_linked-list-cycle-II/README.md)
