@@ -45,6 +45,7 @@ Practice
 * [x] [700. Search in a Binary Search Tree](./700_Search-in-a-Binary-Search-Tree/README.md)
 * [x] [701. Insert into a Binary Search Tree](./701_Insert-Into-a-Binary-Search-Tree/README.md)
 * [x] [704. Binary Search](./704_Binary-Search/README.md)
+* [x] [709. To Lower Case](./709_To-Lower-Case/README.md)
 * [x] [733. Flood Fill](./733_Flood-Fill/README.md)
 * [ ] [875. Koko Eating Bananas](./875_Koko-Eating-Bananas/README.md)
 * [x] [876. Middle of the Linked List](./876_Middle-Of-The-Linked-List/README.md)
