@@ -58,3 +58,4 @@ Practice
 * [x] [1094. Car Pooling](./1094_Car-Pooling/README.md)
 * [x] [1684. Count the Number of Consistent Strings](./1684_Count-the-Number-of-Consistent-Strings/README.md)
 * [x] [2095. Delete the Middle Node of a Linked List](2095_Delete-The-Middle-Node-Of-A-Linked-List/README.md)
+* [x] [2129. Capitalize the Title](2129_Capitalize-the-Title/README.md)

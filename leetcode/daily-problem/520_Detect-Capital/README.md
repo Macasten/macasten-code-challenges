@@ -4,9 +4,9 @@
 
 ___
 
-## [Page Problem](https://leetcode.com/problems/sequential-digits/)
+## [Page Problem](https://leetcode.com/problems/detect-capital/)
 
-## Status:
+## Status: SOLVED
 
 ### Results
 
