@@ -56,6 +56,7 @@ Practice
 * [ ] [875. Koko Eating Bananas](./875_Koko-Eating-Bananas/README.md)
 * [x] [876. Middle of the Linked List](./876_Middle-Of-The-Linked-List/README.md)
 * [x] [938. Range Sum of BST](./938_Range-Sum-of-BST/README.md)
+* [x] [941. Valid Mountain Array](./941_Valid-Mountain-Array/README.md)
 * [x] [977. Squares of a Sorted Array](./977_Squares-of-a-Sorted-Array/README.md)
 * [x] [989. Add to Array-Form of Integer](./989_Add-to-Array-Form-of-Integer/README.md)
 * [ ] [997. Find the Town Judge](./997_Find-the-Town-Judge/README.md)
