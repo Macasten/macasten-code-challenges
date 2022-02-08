@@ -31,6 +31,7 @@ Practice
 * [x] [200. Number of Islands](./200_Number-of-Islands/README.md)
 * [x] [206. Reverse Linked List](./206_Reverse-Linked-List/README.md)
 * [x] [234. Palindrome Linked List](./234_Palindrome-Linked-List/README.md)
+* [x] [258. Add Digits](./258_Add-Digits/README.md)
 * [x] [268. Missing Number](268_Missing-Number/README.md)
 * [x] [278. First Bad Version](./278_First-Bad-Version/README.md)
 * [x] [283. Move Zeroes](./283_Move-Zeroes/README.md)
