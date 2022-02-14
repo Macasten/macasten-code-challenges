@@ -1,4 +1,5 @@
 const { ChallengeProvider } = require("./challenge-provider");
+const { ConfigProviderChallenge } = require("./config-getter");
 
 function titleToFolderName(title) {
   return title.replace(/ /gi, "-").replace(".-", "_");
@@ -12,7 +13,10 @@ class Leetcode extends ChallengeProvider {
   constructor(title) {
     super(title, "leetcode");
     this.mainSourceCodeName = titleToFileName(this.title);
-    this.workingDir = titleToFolderName(this.title);
+    this.workingDir = ConfigProviderChallenge.getNewWorkingDir(
+      this.type,
+      titleToFolderName(this.title)
+    );
   }
 }
 

@@ -1,38 +1,17 @@
 const fs = require("fs");
 const path = require("path");
 
-const templatesStorage = process.env.TEMPLATES_STORAGE;
-
-class TemplateFiles {
-  static getMainFile(type) {
-    switch (type) {
-      case "leetcode":
-        return path.join(templatesStorage, "leetcode-daily-challenge.cpp");
-      default:
-        break;
-    }
-  }
-
-  static getREADMEFile(type) {
-    switch (type) {
-      case "leetcode":
-        return path.join(templatesStorage, "leetcode-daily-challenge.md");
-      default:
-        break;
-    }
-  }
-}
+const { ConfigTemplate } = require("./config-getter");
 
 class TemplateFilesManager {
   constructor(fileBaseName, type) {
     this.mainFileName = fileBaseName;
-    this.mainFile = TemplateFiles.getMainFile(type);
-    this.readmeFile = TemplateFiles.getREADMEFile(type);
+    this.mainFile = ConfigTemplate.getMainFile(type);
+    this.readmeFile = ConfigTemplate.getREADMEFile(type);
   }
 
   copyAllFiles(destinationFolder) {
     // Copy main file
-    console.log(path.join(destinationFolder, this.mainFileName));
     fs.copyFileSync(
       this.mainFile,
       path.join(destinationFolder, this.mainFileName),
