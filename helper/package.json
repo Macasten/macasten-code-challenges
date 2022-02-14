@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "develop": "env-cmd -f ./config/develop.env nodemon app.js -e js,ejs"
+    "develop": "env-cmd -f ./config/develop.env nodemon app.js -e js,ejs",
+    "leetcode": "env-cmd -f ./config/develop.env node new-leetcode-challenge.js"
   },
   "author": "",
   "license": "ISC",
