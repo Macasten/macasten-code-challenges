@@ -1,21 +1,18 @@
-const { TemplateFilesManager } = require("./template");
+const { ChallengeProvider } = require("./challenge-provider");
 
 function titleToFolderName(title) {
   return title.replace(/ /gi, "-").replace(".-", "_");
 }
 
 function titleToFileName(title) {
-  return title.replace(/ /gi, "-").replace(".", "") + ".cpp";
+  return title.toLowerCase().replace(/ /gi, "-").replace(".", "") + ".cpp";
 }
 
-class Leetcode {
+class Leetcode extends ChallengeProvider {
   constructor(title) {
-    this.type = "leetcode";
-    this.title = title;
-  }
-
-  toString() {
-    return "Leetcode Challenge Manager";
+    super(title, "leetcode");
+    this.mainSourceCodeName = titleToFileName(this.title);
+    this.workingDir = titleToFolderName(this.title);
   }
 }
 
