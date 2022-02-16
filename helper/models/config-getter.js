@@ -4,7 +4,7 @@ class ConfigProviderChallenge {
   static getWorkingDir(type) {
     switch (type) {
       case "leetcode":
-        return process.env.LEETCODE_DAILY_CHALLENGE_FORDER;
+        return process.env.LEETCODE_DAILY_CHALLENGE_FOLDER;
       default:
         return undefined;
     }

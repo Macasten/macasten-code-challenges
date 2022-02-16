@@ -1,11 +1,5 @@
 const { Leetcode } = require("./models/leetcode");
 
-
-// //TODO: Move this functions separated file.
-// function getTemplateFiles() {
-  //   return ["leetcode-daily-challenge.cpp", "leetcode-daily-challenge.md"];
-  // }
-
 // Test input
 const challengesTitle = process.argv[2];
 if (!challengesTitle) {
