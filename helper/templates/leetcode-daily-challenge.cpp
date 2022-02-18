@@ -8,6 +8,9 @@ public:
 //----------------------------------------------------------- Challenge Solution
 /*Test Function*/
 //------------------------------------------------------------------------------
+  void show/*Test Function Simplified*/{
+    std::cout << "----- New Test -----" << std::endl;
+  }
 };
 
 int main(){

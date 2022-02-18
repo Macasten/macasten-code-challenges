@@ -6,10 +6,8 @@ ___
 
 ## [Page Problem](/*Challenge Page*/)
 
-## Status:
+## Results
 
-### Results
-
-| Time Submitted   | Status   | Runtime | Memory  | File                     | Language |
-| :--------------- | :------- | :------ | :------ | :----------------------- | :------: |
-||   cpp    |
+| Time Submitted | Status     | Runtime     | Memory     | File          |     Language     |
+| :------------- | :--------- | :---------- | :--------- | :------------ | :--------------: |
+| /*Time*/       | /*Status*/ | /*Runtime*/ | /*Memory*/ | /*File Name*/ | /*Language TAG*/ |

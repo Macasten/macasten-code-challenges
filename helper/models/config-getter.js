@@ -17,12 +17,12 @@ class ConfigProviderChallenge {
 }
 
 class ConfigTemplate {
-  static getMainFile(type) {
+  static getMainFile(type, languageTag) {
     switch (type) {
       case "leetcode":
         return path.join(
           process.env.TEMPLATES_STORAGE,
-          "leetcode-daily-challenge.cpp"
+          "leetcode-daily-challenge." + languageTag
         );
       default:
         return undefined;

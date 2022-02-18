@@ -15,13 +15,39 @@ function createFile(filePath, fileContent) {
 }
 
 class TemplateFilesManager {
-  constructor(fileBaseName, type, title) {
-    this.mainFileName = fileBaseName;
-    this.mainFile = ConfigTemplate.getMainFile(type);
-    this.readmeFile = ConfigTemplate.getREADMEFile(type);
-    this.challengeTitle = title;
+  constructor(challengeProvider) {
+    this.challengeProvider = challengeProvider;
+    console.log("MainFile: ", this.mainFile);
+  }
+  //-------------------------------------------------------------------- Getters
+  get mainFileName() {
+    return this.challengeProvider.mainSourceCodeName;
   }
 
+  get type() {
+    return this.challengeProvider.type;
+  }
+
+  get languageTag() {
+    return this.challengeProvider.languageTag;
+  }
+
+  get challengeTitle() {
+    return this.challengeProvider.title;
+  }
+
+  get mainFile() {
+    return ConfigTemplate.getMainFile(this.type, this.languageTag);
+  }
+
+  get readmeFile() {
+    return ConfigTemplate.getREADMEFile(this.type);
+  }
+
+  get status() {
+    return this.challengeProvider.status;
+  }
+  //------------------------------------------------ Templates Manager Functions
   copyAllFiles(destinationFolder) {
     // Create main file
     createFile(
@@ -35,7 +61,11 @@ class TemplateFilesManager {
   // Tags replacement
   createReadme() {
     const data = getFileContent(this.readmeFile);
-    return data.replace("/*Challenge Title*/", this.challengeTitle);
+    return data
+      .replace("/*Challenge Title*/", this.challengeTitle)
+      .replace("/*Status*/", this.status)
+      .replace("/*Language TAG*/", this.languageTag)
+      .replace("/*File Name*/", path.parse(this.mainFileName).name);
   }
 
   createMainFile() {
