@@ -10,6 +10,7 @@ class ChallengeProvider {
     this.workingDir = title;
     this.mainSourceCodeName = title;
     this.languageTag = languageTag;
+    this.status = "Unsolved";
   }
 
   createWorkingFolder() {
@@ -20,12 +21,7 @@ class ChallengeProvider {
       process.exit(1);
     }
 
-    var temp = new TemplateFilesManager(
-      this.mainSourceCodeName,
-      this.type,
-      this.title,
-      this.languageTag
-    );
+    var temp = new TemplateFilesManager( this );
     temp.copyAllFiles(this.workingDir);
   }
 

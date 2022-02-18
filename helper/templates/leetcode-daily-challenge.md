@@ -6,9 +6,7 @@ ___
 
 ## [Page Problem](/*Challenge Page*/)
 
-## Status:
-
-### Results
+## Results
 
 | Time Submitted | Status     | Runtime     | Memory     | File          |     Language     |
 | :------------- | :--------- | :---------- | :--------- | :------------ | :--------------: |
