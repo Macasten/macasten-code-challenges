@@ -15,11 +15,12 @@ function createFile(filePath, fileContent) {
 }
 
 class TemplateFilesManager {
-  constructor(fileBaseName, type, title) {
+  constructor(fileBaseName, type, title, languageTag) {
     this.mainFileName = fileBaseName;
-    this.mainFile = ConfigTemplate.getMainFile(type);
+    this.mainFile = ConfigTemplate.getMainFile(type, languageTag);
     this.readmeFile = ConfigTemplate.getREADMEFile(type);
     this.challengeTitle = title;
+    this.languageTag = languageTag;
   }
 
   copyAllFiles(destinationFolder) {
@@ -35,7 +36,10 @@ class TemplateFilesManager {
   // Tags replacement
   createReadme() {
     const data = getFileContent(this.readmeFile);
-    return data.replace("/*Challenge Title*/", this.challengeTitle);
+    return data
+      .replace("/*Challenge Title*/", this.challengeTitle)
+      .replace("/*Language TAG*/", this.languageTag)
+      .replace("/*File Name*/", path.parse(this.mainFileName).name);
   }
 
   createMainFile() {

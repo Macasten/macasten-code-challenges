@@ -5,14 +5,16 @@ function titleToFolderName(title) {
   return title.replace(/ /gi, "-").replace(".-", "_");
 }
 
-function titleToFileName(title) {
-  return title.toLowerCase().replace(/ /gi, "-").replace(".", "") + ".cpp";
+function titleToFileName(title, languageTag) {
+  return (
+    title.toLowerCase().replace(/ /gi, "-").replace(".", "") + "." + languageTag
+  );
 }
 
 class Leetcode extends ChallengeProvider {
-  constructor(title) {
-    super(title, "leetcode");
-    this.mainSourceCodeName = titleToFileName(this.title);
+  constructor(title, languageTag = "cpp") {
+    super(title, "leetcode", languageTag);
+    this.mainSourceCodeName = titleToFileName(this.title, this.languageTag);
     this.workingDir = ConfigProviderChallenge.getNewWorkingDir(
       this.type,
       titleToFolderName(this.title)
