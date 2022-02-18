@@ -54,6 +54,7 @@ Practice
 * [x] [520. Detect Capital](./520_Detect-Capital/README.md)
 * [x] [530. Minimum Absolute Difference in BST](./530_Minimum-Absolute-Difference-in-BST/README.md)
 * [x] [557. Reverse Words in a String III](557_Reverse-Words-in-a-String-III/README.md)
+* [x] [561. Array Partition I](./561_Array-Partition-I/README.md)
 * [ ] [567. Permutation in String](./567_Permutation-in-String/README.md)
 * [x] [680. Valid Palindrome II](680_Valid-Palindrome-II/README.md)
 * [x] [695. Max Area of Island](./695_Max-Area-of-Island/README.md)
