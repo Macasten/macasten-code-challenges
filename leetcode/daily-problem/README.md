@@ -46,6 +46,7 @@ Practice
 * [x] [371. Sum of Two Integers](./371_Sum-of-Two-Integers/README.md)
 * [x] [374. Guess Number Higher or Lower](./374_Guess-Number-Higher-or-Lower/README.md)
 * [x] [415. Add Strings](./415_Add-Strings/README.md)
+* [x] [402. Remove K Digits](./402_Remove-K-Digits/README.md)
 * [x] [434. Number of Segments in a String](./434_Number-of-Segments-in-a-String/README.md)
 * [x] [452. Minimum Number of Arrows to Burst Balloons](./452_Minimum-Number-of-Arrows-to-Burst-Balloons/README.md)
 * [ ] [454. 4Sum II](454_4Sum-II/README.md)
