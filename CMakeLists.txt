@@ -21,6 +21,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ../output)
 # To add libraries see: https://stackoverflow.com/questions/14306642/adding-multiple-executables-in-cmake
 file( GLOB_RECURSE FILES_SOURCES *.cpp )
 list( FILTER FILES_SOURCES EXCLUDE REGEX ".build.")
+list( FILTER FILES_SOURCES EXCLUDE REGEX ".helper.")
 
 # Executables will have de folder Name
 foreach( MAIN_SOURCE_FILE ${FILES_SOURCES} )
