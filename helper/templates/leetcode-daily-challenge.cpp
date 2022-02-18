@@ -6,13 +6,13 @@ class Solution {
 public:
 
 //----------------------------------------------------------- Challenge Solution
-/* test function */
+/*Test Function*/
 //------------------------------------------------------------------------------
 };
 
 int main(){
 
-  std::cout <<"<<<<  LeetCode - /* challenge - title */ >>>>" << std::endl;
+  std::cout <<"<<<<  LeetCode - /*Challenge Title*/ >>>>" << std::endl;
   Solution solution;
 
   return 0;
