@@ -20,7 +20,11 @@ class ChallengeProvider {
       process.exit(1);
     }
 
-    var temp = new TemplateFilesManager(this.mainSourceCodeName, this.type);
+    var temp = new TemplateFilesManager(
+      this.mainSourceCodeName,
+      this.type,
+      this.title
+    );
     temp.copyAllFiles(this.workingDir);
   }
 

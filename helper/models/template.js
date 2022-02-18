@@ -3,26 +3,44 @@ const path = require("path");
 
 const { ConfigTemplate } = require("./config-getter");
 
+function getFileContent(filePath) {
+  return fs.readFileSync(filePath, {
+    encoding: "utf8",
+    flag: "r",
+  });
+}
+
+function createFile(filePath, fileContent) {
+  fs.writeFileSync(filePath, fileContent);
+}
+
 class TemplateFilesManager {
-  constructor(fileBaseName, type) {
+  constructor(fileBaseName, type, title) {
     this.mainFileName = fileBaseName;
     this.mainFile = ConfigTemplate.getMainFile(type);
     this.readmeFile = ConfigTemplate.getREADMEFile(type);
+    this.challengeTitle = title;
   }
 
   copyAllFiles(destinationFolder) {
-    // Copy main file
-    fs.copyFileSync(
-      this.mainFile,
+    // Create main file
+    createFile(
       path.join(destinationFolder, this.mainFileName),
-      fs.constants.COPYFILE_EXCL
+      this.createMainFile()
     );
     // Copy readme file
-    fs.copyFileSync(
-      this.readmeFile,
-      path.join(destinationFolder, "README.md"),
-      fs.constants.COPYFILE_EXCL
-    );
+    createFile(path.join(destinationFolder, "README.md"), this.createReadme());
+  }
+
+  // Tags replacement
+  createReadme() {
+    const data = getFileContent(this.readmeFile);
+    return data.replace("/*Challenge Title*/", this.challengeTitle);
+  }
+
+  createMainFile() {
+    const data = getFileContent(this.mainFile);
+    return data.replace("/*Challenge Title*/", this.challengeTitle);
   }
 
   toString() {
@@ -30,6 +48,7 @@ class TemplateFilesManager {
   "main-file-name" : ${this.mainFileName}
   "main-file" : ${this.mainFile}
   "readme-file" : ${this.readmeFile}
+  "challenge-title" : ${this.challengeTitle}
 }`;
   }
 }
