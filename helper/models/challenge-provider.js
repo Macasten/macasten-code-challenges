@@ -13,11 +13,10 @@ class ChallengeProvider {
   }
 
   createWorkingFolder() {
-    var newFolder = path.join(".", this.workingDir);
-    if (!fs.existsSync(newFolder)) {
-      fs.mkdirSync(newFolder);
+    if (!fs.existsSync(this.workingDir)) {
+      fs.mkdirSync(this.workingDir);
     } else {
-      console.log(`" Failed: ${newFolder} already exist "`);
+      console.log(`" Failed: ${this.workingDir} already exist "`);
       process.exit(1);
     }
 
