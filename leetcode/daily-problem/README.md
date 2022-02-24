@@ -29,6 +29,7 @@ Practice
 * [x] [142. Linked List Cycle II](./142_linked-list-cycle-II/README.md)
 * [x] [143. Reorder List](./143_Reorder-List/README.md)
 * [x] [147. Insertion Sort List](./147_Insertion-Sort-List/README.md)
+* [x] [148. Sort List](./148_Sort-List/README.md)
 * [x] [152. Maximum Product Subarray](./152_Maximum-Product-Subarray/README.md)
 * [x] [167. Two Sum II - Input Array Is Sorted](167_Two-Sum-II-Input/README.md)
 * [x] [168. Excel Sheet Column Title](./168_Excel-Sheet-Column-Title/README.md)
