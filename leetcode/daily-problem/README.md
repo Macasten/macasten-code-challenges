@@ -39,6 +39,7 @@ Practice
 * [x] [169. Majority Element](169_Majority-Element/README.md)
 * [x] [171. Excel Sheet Column Number](./171_Excel-Sheet-Column-Number/README.md)
 * [x] [189. Rotate Array](./189_Rotate-Array/README.md)
+* [x] [191. Number of 1 Bits](./191_Number-of-1-Bits/README.md)
 * [x] [200. Number of Islands](./200_Number-of-Islands/README.md)
 * [x] [206. Reverse Linked List](./206_Reverse-Linked-List/README.md)
 * [x] [228. Summary Ranges](./228_Summary-Ranges/README.md)
