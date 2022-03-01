@@ -49,6 +49,7 @@ Practice
 * [x] [283. Move Zeroes](./283_Move-Zeroes/README.md)
 * [ ] [290. Word Pattern](./290_Word-Pattern/README.md)
 * [ ] [316. Remove Duplicate Letters](./316_Remove-Duplicate-Letters/README.md)
+* [x] [338. Counting Bits](./338_Counting-Bits/README.md)
 * [x] [344. Reverse String](./344_Reverse-String/README.md)
 * [x] [382. Linked List Random Node](./382_Linked-List-Random-Node/README.md)
 * [x] [389. Find the Difference](389_Find-the-Difference/README.md)
