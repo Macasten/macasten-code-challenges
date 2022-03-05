@@ -77,6 +77,7 @@ Practice
 * [x] [704. Binary Search](./704_Binary-Search/README.md)
 * [x] [709. To Lower Case](./709_To-Lower-Case/README.md)
 * [x] [733. Flood Fill](./733_Flood-Fill/README.md)
+* [x] [740. Delete and Earn](./740_Delete-and-Earn/README.md)
 * [x] [747. Largest Number At Least Twice of Others](./747_Largest-Number-At-Least-Twice-of-Others/README.md)
 * [x] [799. Champagne Tower](./799_Champagne-Tower/README.md)
 * [ ] [875. Koko Eating Bananas](./875_Koko-Eating-Bananas/README.md)
