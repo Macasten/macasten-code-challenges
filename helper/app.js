@@ -1,12 +1,16 @@
 const http = require('http');
 
 const express = require('express');
+const bodyParser = require("body-parser");
+
 const app = express();
+app.use(bodyParser.urlencoded({ extended: false }));
 
 const port = process.env.PORT;
 
-app.listen( port , () => {
-  console.log('Code Challenges helper is up on port ' + port);
-})
+app.set("view engine", "ejs");
+app.set("views", "views");
 
-console.log("Code Challenges Helper");
+app.listen(port, () => {
+  console.log("Code Challenges helper is up on port " + port);
+});
