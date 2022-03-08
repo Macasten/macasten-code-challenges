@@ -99,3 +99,4 @@ Practice
 * [x] [2095. Delete the Middle Node of a Linked List](2095_Delete-The-Middle-Node-Of-A-Linked-List/README.md)
 * [x] [2129. Capitalize the Title](2129_Capitalize-the-Title/README.md)
 * [x] [2154. Keep Multiplying Found Values by Two](2154_Keep-Multiplying-Found-Values-by-Two/README.md)
+* [x] [2180. Count Integers With Even Digit Sum](./2129_Capitalize-the-Title/README.md)
