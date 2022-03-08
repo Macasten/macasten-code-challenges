@@ -41,6 +41,7 @@ Practice
 * [x] [189. Rotate Array](./189_Rotate-Array/README.md)
 * [x] [191. Number of 1 Bits](./191_Number-of-1-Bits/README.md)
 * [x] [200. Number of Islands](./200_Number-of-Islands/README.md)
+* [x] [202. Happy Number](./202_Happy-Number/README.md)
 * [x] [206. Reverse Linked List](./206_Reverse-Linked-List/README.md)
 * [x] [228. Summary Ranges](./228_Summary-Ranges/README.md)
 * [x] [234. Palindrome Linked List](./234_Palindrome-Linked-List/README.md)
