@@ -95,6 +95,7 @@ Practice
 * [x] [1359. Count All Valid Pickup and Delivery Options](./1359_Count-All-Valid-Pickup-and-Delivery-Options/README.md)
 * [x] [1675. Minimize Deviation in Array](./1675_Minimize-Deviation-in-Array/README.md)
 * [x] [1684. Count the Number of Consistent Strings](./1684_Count-the-Number-of-Consistent-Strings/README.md)
+* [x] [1945. Sum of Digits of String After Convert](./1945_Sum-of-Digits-of-String-After-Convert/README.md)
 * [x] [2095. Delete the Middle Node of a Linked List](2095_Delete-The-Middle-Node-Of-A-Linked-List/README.md)
 * [x] [2129. Capitalize the Title](2129_Capitalize-the-Title/README.md)
 * [x] [2154. Keep Multiplying Found Values by Two](2154_Keep-Multiplying-Found-Values-by-Two/README.md)
