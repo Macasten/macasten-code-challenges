@@ -18,6 +18,7 @@ Practice
 * [x] [35. Search Insert Position](./35_Search-Insert-Position/README.md)
 * [x] [39. Combination Sum](./39_Combination-Sum/README.md)
 * [x] [43. Multiply Strings](./43_Multiply-Strings/43_multiply-strings.cpp)
+* [x] [61. Rotate List](./61_Rotate-List/README.md)
 * [x] [66. Plus One](./66_Plus-One/README.md)
 * [x] [67. Add Binary](./67_Add-Binary/README.md)
 * [x] [82. Remove Duplicates from Sorted List II](./82_Remove-Duplicates-from-Sorted-List-II/README.md)
