@@ -81,6 +81,7 @@ Practice
 * [x] [701. Insert into a Binary Search Tree](./701_Insert-Into-a-Binary-Search-Tree/README.md)
 * [x] [704. Binary Search](./704_Binary-Search/README.md)
 * [x] [709. To Lower Case](./709_To-Lower-Case/README.md)
+* [x] [725. Split Linked List in Parts](./725_Split-Linked-List-in-Parts/README.md)
 * [x] [733. Flood Fill](./733_Flood-Fill/README.md)
 * [x] [740. Delete and Earn](./740_Delete-and-Earn/README.md)
 * [x] [747. Largest Number At Least Twice of Others](./747_Largest-Number-At-Least-Twice-of-Others/README.md)
