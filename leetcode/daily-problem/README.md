@@ -88,6 +88,7 @@ Practice
 * [x] [740. Delete and Earn](./740_Delete-and-Earn/README.md)
 * [x] [747. Largest Number At Least Twice of Others](./747_Largest-Number-At-Least-Twice-of-Others/README.md)
 * [x] [799. Champagne Tower](./799_Champagne-Tower/README.md)
+* [x] [856. Score of Parentheses](./856_Score-of-Parentheses/README.md)
 * [ ] [875. Koko Eating Bananas](./875_Koko-Eating-Bananas/README.md)
 * [x] [876. Middle of the Linked List](./876_Middle-Of-The-Linked-List/README.md)
 * [x] [938. Range Sum of BST](./938_Range-Sum-of-BST/README.md)
