@@ -54,7 +54,7 @@ Practice
 * [x] [278. First Bad Version](./278_First-Bad-Version/README.md)
 * [x] [283. Move Zeroes](./283_Move-Zeroes/README.md)
 * [ ] [290. Word Pattern](./290_Word-Pattern/README.md)
-* [ ] [316. Remove Duplicate Letters](./316_Remove-Duplicate-Letters/README.md)
+* [x] [316. Remove Duplicate Letters](./316_Remove-Duplicate-Letters/README.md)
 * [ ] [328. Odd Even Linked List](./328_Odd-Even-Linked-List/README.md)
 * [x] [338. Counting Bits](./338_Counting-Bits/README.md)
 * [x] [344. Reverse String](./344_Reverse-String/README.md)
