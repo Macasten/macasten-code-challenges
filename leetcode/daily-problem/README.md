@@ -91,6 +91,7 @@ Practice
 * [x] [856. Score of Parentheses](./856_Score-of-Parentheses/README.md)
 * [ ] [875. Koko Eating Bananas](./875_Koko-Eating-Bananas/README.md)
 * [x] [876. Middle of the Linked List](./876_Middle-Of-The-Linked-List/README.md)
+* [x] [881. Boats to Save People](./881_Boats-to-Save-People/README.md)
 * [x] [938. Range Sum of BST](./938_Range-Sum-of-BST/README.md)
 * [x] [941. Valid Mountain Array](./941_Valid-Mountain-Array/README.md)
 * [x] [946. Validate Stack Sequences](./946_Validate-Stack-Sequences/README.md)
